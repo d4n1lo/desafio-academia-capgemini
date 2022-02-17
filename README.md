@@ -11,17 +11,17 @@ Foram propostos 3 Desafios em qualquer linguagem de programação, me esforcei e
 
 <b>Executando Desafio 1</b>
 
-javac desafio1.java
+javac desafio1.java </br>
 java desafio1
 
 
 <b>Executando Desafio 2</b>
 
-javac desafio2.java 
+javac desafio2.java <br/>
 java desafio2
 
 
 <b>Executando Desafio 3</b>
 
-javac desafio3.java
+javac desafio3.java </br>
 java desafio3
